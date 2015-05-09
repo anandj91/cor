@@ -1,3 +1,5 @@
+/* This file contains the standard C and POSIX includes */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
